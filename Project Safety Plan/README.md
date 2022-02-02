@@ -1,5 +1,6 @@
 # Project Saftey Plans
 
+
 ## Emergency Preparedness
 
 
@@ -141,3 +142,23 @@ This refers to TU Dublin emergency preparedness efforts including written proced
 Social media has become a critical component to deliver news faster and to a wider audience than traditional news sources for emergencies. This however has the potential for misinformation. Members of the TU Dublin community should refrain from spreading emergency information on their personal social media and should also refrain from sharing images relating to emergencies.
 
 All queries in relation to communications in emergency scenarios should be referred to the Communications and Marketing Function.
+
+## Health and Safety Report Forms
+
+Injury: [Accident Report Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlUMko0RkNQT1NGOEFMNUJSTzM2UUNJVkxUQS4u)
+
+Dangerous Occurence - Nobody injured [Near Miss Report Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlUNThVOEZWMzRHRk9FSDNSWjdXRFozME1WUy4u)
+
+Security Issue - Please contact Estates Helpdesk - estates.city@tudublin.ie
+
+[Evacuation Evaluation Report Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlURVZYMkJONU0xMVdWUTEySU1WRThDMFNQNS4u)
+
+[Incident Controller Evacuation Report](https://www.tudublin.ie/media/website/for-staff/health-and-safety/documents/Incident-Controller-Evacuation-Report.docx)
+
+[Hazard Report/ Non - conformance](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlUNkRWVEhGMFVDSU5RMFlFOFNJVVJGQjlFUy4u)
+
+[Reporting inappropriate behaviour on campus](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlUMVdBMFRGOUxXVTVUVkdDNkdXRDA5N1E1SC4u)
+
+[Safety Suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2iTIVfvEBClFgjksQYvZ3TlUNUhXMUY2TkQ5Nzg5TzZLN0hUN0I1TDExWS4u)
+
+Please contact the relevant Head of School/Function if you wish to report an operational safety issue
